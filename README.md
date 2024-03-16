@@ -1,4 +1,4 @@
-![](https://github.com/ZORO2045/Quran_live/blob/main/banner.jpg)
+![](https://github.com/ZORO2045/Holy_Quran_Playlist/blob/main/banner.jpg)
   # Holy Quran Playlist Website
 
 Welcome to our Holy Quran playlist website repository! This repository hosts a collection of Quranic recitations from various reciters and radio stations. Users can listen to these recitations online through provided links.
