@@ -17,10 +17,6 @@ This project aims to provide a convenient platform for users to access and liste
 
 To listen to a recitation, simply click on the provided streaming link next to the recitation name. Users can enjoy high-quality audio streams directly from their browsers.
 
-## Contributing
-
-Contributions to this project are welcome! If you have suggestions for additional recitations or improvements to the website, feel free to open an issue or submit a pull request.
-
 ## Acknowledgments
 
 Special thanks to the reciters and radio stations whose recordings are included in this playlist.
